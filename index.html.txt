@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Angel Gutierrez | Computer Science Portfolio</title>
+</head>
+<body>
+	<h1>Angel Gutierrez</h1>
+	<p>Computer Science Student</p>
+
+	<h2>About Me</h2>
+	<p>Computer Science Student at University of Texas at Arlington</p>
+
+	<h2>Projects</h2>
+	<p>Future links to projects will go here</p>
+	
+	<h2>Goals</h2>
+	<p>I hope to learn more about coding and would like to build a renderer</p>
+
+</body>
+</html>
+	
