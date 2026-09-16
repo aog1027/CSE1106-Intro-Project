@@ -2,9 +2,9 @@
 
 ## A simple example project to learn how to initialize, add and commit projects using Git and how to push projects to GitHub 
 
-## Technologies: N/A
+## Technologies: HTML
 
-## How to Run: It's a Text File
+## How to Run: Open .html File
 
 ## What I Learned: Learned the basics of Git and GitHub along with its importance.
 
